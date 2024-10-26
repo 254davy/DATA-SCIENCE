@@ -1,0 +1,6 @@
+Weather,Road_Type,Traffic_Volume,Time_of_Day,Driver_Behavior,Accident_Severity
+1,1,200,8,3,5
+0,2,150,14,2,3
+1,1,220,17,1,7
+1,3,300,21,4,8
+0,2,180,10,2,4
